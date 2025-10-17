@@ -1,2 +1,2 @@
 # gitlab
-this is a repository to demonstrate github clonic
+this is a repository to demonstrate github cloning
