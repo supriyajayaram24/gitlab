@@ -1,3 +1,3 @@
 # gitlab
-this is a repository to demonstrate github cloning
+this is a repository to demonstrate github cloning.
 Testing from lab1.
